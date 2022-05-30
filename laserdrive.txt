@@ -1,53 +1,53 @@
-a game title (all types)
-a disease
-a vehicle or a method of transportation
-a word beginning with "a"
-a color
-a date, era, or historical event
-a drug or a type of medicine
-a movie title
-a musician or musical group
-a historical figure (deceased)
-an animal
-a possible cause of death
-an edible item
-something usually found in a kitchen
-a recipe or cooked dish
-a unit of measurement
-a verb
-a type of clothing
-a quality or flaw
-a city
-an adjective
-a hobby or pastime
-a company or a type of business (non-fictional)
-a fictional character
-a meteorological phenomenon or natural disaster
-a school supply
-an onomatopoeia
-something found in a hospital
-a country
-a body part or internal organ
-a television series
-a sport
-a song title
-a musical instrument
-a little drawing
-a celebrity (living)
-an insect
-something to do with the old west
-a public or governmental institution
-a word of 8 or more letters
-something usually found in a bedroom
-a book title
-a made up word
-a word beginning with "p"
-a word of 5 or fewer letters
-a weapon
-a tourist attraction
-a fantastical or mythological creature or monster
-a swear or an insult
-a type of alcohol, a cocktail, or a brand name associated with alcohol
-a plant or vegetable
-a profession or occupation
-a geometrical shape
+A GAME TITLE (ALL TYPES)
+A DISEASE
+A VEHICLE OR A METHOD OF TRANSPORTATION
+A WORD BEGINNING WITH "A"
+A COLOR
+A DATE, ERA, OR HISTORICAL EVENT
+A DRUG OR A TYPE OF MEDICINE
+A MOVIE TITLE
+A MUSICIAN OR MUSICAL GROUP
+A HISTORICAL FIGURE (DECEASED)
+AN ANIMAL
+A POSSIBLE CAUSE OF DEATH
+AN EDIBLE ITEM
+SOMETHING USUALLY FOUND IN A KITCHEN
+A RECIPE OR COOKED DISH
+A UNIT OF MEASUREMENT
+A VERB
+A TYPE OF CLOTHING
+A QUALITY OR FLAW
+A CITY
+AN ADJECTIVE
+A HOBBY OR PASTIME
+A COMPANY OR A TYPE OF BUSINESS (NON-FICTIONAL)
+A FICTIONAL CHARACTER
+A METEOROLOGICAL PHENOMENON OR NATURAL DISASTER
+A SCHOOL SUPPLY
+AN ONOMATOPOEIA
+SOMETHING FOUND IN A HOSPITAL
+A COUNTRY
+A BODY PART OR INTERNAL ORGAN
+A TELEVISION SERIES
+A SPORT
+A SONG TITLE
+A MUSICAL INSTRUMENT
+A LITTLE DRAWING
+A CELEBRITY (LIVING)
+AN INSECT
+SOMETHING TO DO WITH THE OLD WEST
+A PUBLIC OR GOVERNMENTAL INSTITUTION
+A WORD OF 8 OR MORE LETTERS
+SOMETHING USUALLY FOUND IN A BEDROOM
+A BOOK TITLE
+A MADE UP WORD
+A WORD BEGINNING WITH "P"
+A WORD OF 5 OR FEWER LETTERS
+A WEAPON
+A TOURIST ATTRACTION
+A FANTASTICAL OR MYTHOLOGICAL CREATURE OR MONSTER
+A SWEAR OR AN INSULT
+A TYPE OF ALCOHOL, A COCKTAIL, OR A BRAND NAME ASSOCIATED WITH ALCOHOL
+A PLANT OR VEGETABLE
+A PROFESSION OR OCCUPATION
+A GEOMETRICAL SHAPE
